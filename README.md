@@ -10,7 +10,7 @@
 ![ゲーム概要](https://github.com/user-attachments/assets/8215af24-a167-42f9-8985-6396c576fb3a)
 
 ## 必要環境
-- Unity 2019.4.27f1 or 2020.1.17f1
+- Unity 2019.4.27f1
 - SteamVR Plugin (2.7.X系) 
 - VIVE Tracker
 
