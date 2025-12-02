@@ -101,3 +101,5 @@ InitTestScene*.unity*
 # macOS Finder
 .DS_Store
 ._*
+
+Assets/TextMesh Pro/Fonts/**/**/*.asset
