@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/title.unity
+    guid: 864b12ccd528efa4e87a8692cfdb29b0
+  - enabled: 1
+    path: Assets/Scenes/scene.unity
+    guid: cfca53ba6d35d0a4c813c3378709e11b
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: d2f3d6c68f84d4dd4916fe4fd0647cd7
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: d6a888dc5de22e04ca7ad81019cbfba2
+  - enabled: 1
+    path: Assets/Scenes/tutorial2.unity
+    guid: f73fb6ed0a6231d42a2688b0e0c0f025
+  - enabled: 1
+    path: Assets/Scenes/tutorial3.unity
+    guid: a7f0f66177d865148ba9e202e757b8c4
+  - enabled: 1
+    path: Assets/Scenes/maru.unity
+    guid: 187d056feb289974f8413f3c3df1e822
+  - enabled: 1
+    path: Assets/Scenes/countdown.unity
+    guid: e303484d8a16ca940a9dc2c04bcd1aee
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/dai.unity
+    guid: 7410578c1cb60ed4d99a104c22fe177b
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/genn.unity
+    guid: da6a4c277660e594986eb2c027c5a307
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/go.unity
+    guid: 2d2c5f73f42e0074aabd8d46fd463591
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/hiki.unity
+    guid: a8b1e9bf5694f034097fae80756314fa
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/hito.unity
+    guid: 81b0948c7566b0f4280637b19fb28a15
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/hu.unity
+    guid: b9f67c9c4efa4a744b5cd88aa21f0f9f
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/huru.unity
+    guid: 49e0821c9e6470b41ba8b52658d72d75
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/i.unity
+    guid: 28d0d53d55767cc4188c0ae79317be55
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/iti.unity
+    guid: 4a6317cf70a933741a854008af718e4e
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ito.unity
+    guid: 1ee53406dc7fd0440901f144f0ffd6cd
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/juu.unity
+    guid: b0c5ee7996198ed4f99615e94c3381aa
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/kai.unity
+    guid: aee256d70fed6f94caaf00698ea7e212
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/kanae.unity
+    guid: eb9f4139fb9b19a48b4b151f12fddda4
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/kann.unity
+    guid: 14b671e835709744db0fc8ed65a680cf
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/katana.unity
+    guid: 6067f397e0a9a7e4c8da3fb45c20ef6b
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ki.unity
+    guid: 5b6bdedd85d8fe1468c3c158d2b4f0e9
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/kokoro.unity
+    guid: e6e0acd3747f0b14fbaec280ad5c0f4c
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/kou.unity
+    guid: a51962e140792894c823d1ac6768d8ef
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/kyu.unity
+    guid: c32f0679906eb5f46b5482eb1f50f8d1
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/mann.unity
+    guid: 9a9389b7a5e5e6e409f253dc9433ed14
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/me.unity
+    guid: 31e883353f94a7e4fb44538ea3efbac0
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/mi.unity
+    guid: f4ce144c4931f6342a0be1f2ed9785a1
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/mizu.unity
+    guid: 4ce4c2bf4b340124cb5645c1eb740718
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/motu.unity
+    guid: 599bbf9e187394b4d97e7c9b1c1f8fba
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/ni.unity
+    guid: 822ef97678dc95243836443f640b871c
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/niti.unity
+    guid: 2f65fb4ea0ac4e84b91f3dca31ffda33
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/ono.unity
+    guid: 308edb873ed981745be6a419804cfc0f
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/oto.unity
+    guid: d341d2333b391da4984a429395df9cf9
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ou.unity
+    guid: a97adf02a8ccf6e42adfd363277114f3
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ryou.unity
+    guid: 860f9cbc2b1a3c348ace92bf216a2546
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/samurai.unity
+    guid: e779d4d9b24ba0e4db0c551d12a6b831
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/sann.unity
+    guid: 9ec4fb93cb8cdee4b9344c2a079c7f62
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/sara.unity
+    guid: f5f2dac36f2866a46ae9bd8617fe8b7e
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/si.unity
+    guid: 2719c0b400279c14b9d8f6327402c6ac
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/siro.unity
+    guid: c82621507161e4a44be6e7048339b561
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/siru.unity
+    guid: cc7f3f327fff57142b1734b3f14bc783
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/sita.unity
+    guid: 8af06fe45eafbd24b9a38b5dba1d68dc
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/situ.unity
+    guid: d873c3f5a859f6e498be5f6ce3ba3586
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/sui.unity
+    guid: d5eef1ce17552b547a3fd4310d185b55
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/sumu.unity
+    guid: 88a37462f6495c54c93eda7048e58670
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/syou.unity
+    guid: b140228c4f978444a8374a7a14beffce
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ta.unity
+    guid: 8c2831b0b244f4944b7e74100a616207
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/tukaeru.unity
+    guid: da778e226a1b74f4fa137e93b1974d4b
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/tukasa.unity
+    guid: 0daad8c44f0ce6d4888202ace2aca840
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/tuti.unity
+    guid: e2790c4bbac7c7a4ea722b3c736f3fab
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/ue.unity
+    guid: 5af4cdf121ab8a84290fb2cb8ab8521f
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/umeru.unity
+    guid: bc3c41c13e5d4a44fb8d4cf2ef091d2c
+  - enabled: 1
+    path: Assets/Scenes/kanjiscene/uranau.unity
+    guid: a6adae60aa4ad624093d0cd97b100f9a
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/uti.unity
+    guid: 0fb1283efd0a7d0469d44a58efb57bcc
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/ya.unity
+    guid: db2c7d5920c7a234689fe952a85f4097
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/yo.unity
+    guid: 3ba490d461b21294aa52ce0fa4e0c5c8
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/T.unity
+    guid: 6bcd254c8bce97249aa88b9ad946e4fd
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/T02.unity
+    guid: 4e8b45ed2da8c00428dd00c4a4903ba4
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/ko.unity
+    guid: 8d5edc4e1ef80e349b6b4bbf9a01426d
+  - enabled: 0
+    path: Assets/Scenes/kanjiscene/ku.unity
+    guid: d5122ff8f170a8d40a3185de3bbebe13
+  - enabled: 1
+    path: Assets/Scenes/AEON/AEON in.unity
+    guid: a9319f5b4f1497e4aa088117ae00daab
+  - enabled: 1
+    path: Assets/Scenes/AEON/AEON syuujinn.unity
+    guid: 243345dc1d5bd5e44bb4f24eedaebd99
+  - enabled: 1
+    path: Assets/Scenes/AEON/AEON naosu.unity
+    guid: 97430373c13df074e8ab5ed9857e7ce1
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: b9da606c5bd7b6f45b417031fd3aa742,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 719ef835c0031a44287c272e60bb3a86,
+      type: 2}
